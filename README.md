@@ -12,7 +12,7 @@ Welcome to the Car Selling Website project! This is a responsive web application
 
 ## Demo
 
-See the live demo of the Car Selling Website [here](https://mayank-kumar7.github.io/Car-Selling-Website/).
+See the live demo of the Car Selling Website [here](https://mayankkr7.github.io/Car-Selling-Website/).
 
 ## Usage
 
