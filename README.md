@@ -2,6 +2,10 @@
 
 Welcome to the Car Selling Website project! This is a responsive web application for buying and selling cars, focusing on frontend functionality. It is built using HTML, CSS, and JavaScript to provide a dynamic and engaging user experience. Whether you're a car enthusiast or looking to buy/sell a vehicle, this website has got you covered.
 
+ <h3><a href="https://mayankkr7.github.io/Car-Selling-Website/"><strong>See live preview »</strong></a></h3>
+
+ <br />
+
 ## Features
 
 - **Responsive Design:** Enjoy a consistent experience across devices, from desktops to mobile phones.
